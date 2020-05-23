@@ -1,4 +1,4 @@
 # ANN-classification-algorithm
 Classifying data using Artificial Neural Network
 
-In this example, mushroom data is evaluted to determine if a mushroom is poisonous or edible
+Using the mushrooms.csv file included in the sample_data folder, mushroom data is evaluted to determine if a mushroom is poisonous or edible
